@@ -1,16 +1,19 @@
-## Hi there 👋
+# Aaron Rockwell — Cybersecurity Engineering (Cloud + Python)
 
-<!--
-**AaronR45/AaronR45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build security engineering projects focused on cloud IAM, network segmentation, monitoring/alerting, and phishing detection.
+I also do applied cybersecurity research at UNCW, building repeatable testbeds and documentation for security experiments.
 
-Here are some ideas to get you started:
+## Featured Projects
+- Phishing URL Detection (Python ML): reproducible training + evaluation
+- Cloud IAM Least Privilege Lab: role/policy design + permission validation
+- VPC Peering & Segmentation: CIDR planning + troubleshooting + secure connectivity
+- Cloud Monitoring & Alerting: alarm design + noise considerations + validation steps
+- Network Security Rules Lab: allowlisting + verification tests
+- Zero Trust System Design: RBAC + auditability + crypto/KMS concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python • SQL • Linux • Git • Cloud (AWS fundamentals) • IAM/RBAC • Cloud networking • Wireshark/Nmap/Nessus • Documentation
+
+## Contact
+LinkedIn: https://www.linkedin.com/in/aaronrockwell1/
+Email: amrockwell45@gmail.com
