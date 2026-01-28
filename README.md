@@ -6,10 +6,7 @@ I also do applied cybersecurity research at UNCW, building repeatable testbeds a
 ## Featured Projects
 - Phishing URL Detection (Python ML): reproducible training + evaluation
 - Cloud IAM Least Privilege Lab: role/policy design + permission validation
-- VPC Peering & Segmentation: CIDR planning + troubleshooting + secure connectivity
-- Cloud Monitoring & Alerting: alarm design + noise considerations + validation steps
-- Network Security Rules Lab: allowlisting + verification tests
-- Zero Trust System Design: RBAC + auditability + crypto/KMS concepts
+
 
 ## Skills
 Python • SQL • Linux • Git • Cloud (AWS fundamentals) • IAM/RBAC • Cloud networking • Wireshark/Nmap/Nessus • Documentation
